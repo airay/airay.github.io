@@ -1,5 +1,5 @@
 	---
-	layout = page
+	layout = post
 	title =  WEB学习中的一些思考
 	catgory = 随想
 	---
