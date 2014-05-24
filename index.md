@@ -6,7 +6,7 @@ title: 主页
     孤独的码农......一个不想熬夜的码农，乐于开发任何有趣的项目。
 #联系#
     * Email : jianlei_zju@163.com
-    * Weibo : ![新浪微博](/assets/ico.png) <http://www.weibo.com/2274950957/profile?rightmod=1&wvr=5&mod=personinfo> 
+    * Weibo : [新浪微博](/assets/ico.png)(http://www.weibo.com/2274950957/profile?rightmod=1&wvr=5&mod=personinfo)
 #TODO#
 #文章列表#
 <ul class="posts">
